@@ -637,12 +637,13 @@
          id="title5466">Greenland</title>
     </path>
   </g>
-  <g
-     style="fill:#ddd3c8;fill-opacity:1"
-     transform="matrix(0.065216, 0, 0, 0.065229, -104.494576, -13.045005)"
-     id="gb"
-     inkscape:label="United Kingdom">
-    <title>United Kingdom</title>
+<g
+   style="fill:#ddd3c8;fill-opacity:1"
+   transform="matrix(0.065216, 0, 0, 0.065229, -104.494576, -13.045005)"
+   id="gb"
+   inkscape:label="United Kingdom">
+  <title>United Kingdom</title>
+  <text x="1000" y="500" font-size="20" fill="black">United Kingdom</text>
     <path
        style="fill-opacity:1;stroke:rgb(255, 255, 255);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-width:0.400353px;fill:#ddd3c8"
        id="gb-nir"
