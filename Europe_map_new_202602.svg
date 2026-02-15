@@ -988,7 +988,7 @@
        d="M 224.473 431.068 L 224.475 419.765 L 225.174 419.8 L 225.879 420.868 L 225.739 421.856 L 226.545 423.348 L 226.182 424.577 L 225.759 425.605 L 226.484 425.283 L 227.069 425.988 L 226.827 426.633 L 226.142 427.016 L 226.626 428.73 L 228.802 428.991 L 229.427 428.085 L 231.826 427.803 L 231.968 426.996 L 234.628 426.854 L 234.911 427.238 L 235.777 427.399 L 235.757 431.068 L 224.473 431.068 Z" />
   </g>
   <path
-     style="opacity: 0; fill-opacity: 1; fill-rule: evenodd; stroke: rgb(0, 0, 0); stroke-linecap: round; stroke-linejoin: miter; stroke-miterlimit: 4; stroke-opacity: 1; stroke-dasharray: none; stroke-dashoffset: 0; fill: rgb(255, 255, 255); stroke-width: 0px"
+     style="fill: rgb(255, 255, 255); fill-rule: evenodd;style="opacity: 0; fill-opacity: 1;stroke: rgb(0, 0, 0); stroke-linecap: round; stroke-linejoin: miter; stroke-miterlimit: 4; stroke-opacity: 1; stroke-dasharray: none; stroke-dashoffset: 0; stroke-width: 0px"
      id="path3301"
      d="M 279.31 406.85 L 279.189 417.498 L 269.867 417.537 L 270.893 416.762 C 271.099 416.596 271.449 416.299 271.605 415.91 C 272.083 414.714 272.152 412.849 272.147 412.853 L 275.756 408.399 C 275.756 408.399 277.212 407.828 278.019 407.584 C 278.703 407.377 279.312 406.84 279.31 406.85 Z">
     <title
